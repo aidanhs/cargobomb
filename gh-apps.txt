@@ -13,7 +13,6 @@ https://github.com/3Hren/logdrop
 https://github.com/3Hren/zenlog
 https://github.com/46bit/comms
 https://github.com/887/fluffy-system
-https://github.com/887/mass-file-renamer
 https://github.com/AGhost-7/schedule-m8
 https://github.com/APTy/kvlite
 https://github.com/AaronFriel/grapple

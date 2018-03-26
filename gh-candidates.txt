@@ -31,7 +31,6 @@
 46bit/comms
 7thSigil/css-color-parser-rs
 887/fluffy-system
-887/mass-file-renamer
 907th/timus-rust
 A-Beck/cs4414-ps2
 A-Beck/cs4414-ps4
